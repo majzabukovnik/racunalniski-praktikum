@@ -15,4 +15,5 @@
 - **macOS:** `Cmd + K Cmd + 0` / `Cmd + K Cmd + J`
 - **Opis:** Omogoča skrivanje ali razpiranje blokov kode, kar je uporabno pri pregledovanju večjih datotek.  
 
+#### Manjša sprememba za DN 2
 
